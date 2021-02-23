@@ -15,7 +15,7 @@ body {
 header {
     padding: 0;
     margin: 0 0 2.0em;
-    background: #39150C url(../Storefront/assets/Mugs1.jpg)
+    background: #39150C url(assets/Mugs1.jpg)
     no-repeat fixed top center;
     background-size: cover;
     
